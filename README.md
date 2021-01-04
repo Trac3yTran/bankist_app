@@ -5,3 +5,5 @@
 Minimalist Banking App Project from Jonas Schmedtmann complete JavaScript course
 
 ###
+
+![Screenshot](flowchart.png)
